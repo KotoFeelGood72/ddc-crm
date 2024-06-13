@@ -3,7 +3,7 @@ name: Deploy Vue to WordPress
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-deploy:
